@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h>🧐 Sobre</h2>
-<p>Projeto utilizado como testes para o curso de Git e Github da Alura.</p>
+<p>Projeto utilizado para testes no curso de Git e Github da Alura.</p>
 
 ## 🚀 Tecnologias
 <div>
